@@ -1,18 +1,25 @@
-# Salesforce DX Project: Next Steps
+# 💼 Salesforce Capstone Project: HandsMen Threads
+### Transforming the Future of Men’s Tailoring Through Digital Innovation
 
-Now that you’ve created a Salesforce DX project, what’s next? Here are some documentation resources to get you started.
+## 🧭 Overview
+This repository presents my **Salesforce Capstone Project** for the **Salesforce Skills Wallet Program**.  
+**HandsMen Threads** is a forward-thinking fashion platform built to enhance **bespoke tailoring services** by integrating Salesforce for smarter **customer management**, **personalized styling**, and **efficient order tracking**.  
 
-## How Do You Plan to Deploy Your Changes?
+By utilizing Salesforce’s automation and CRM capabilities, the system streamlines client interactions and empowers the organization to deliver a seamless, data-driven customer experience.  
 
-Do you want to deploy a set of changes, or create a self-contained application? Choose a [development model](https://developer.salesforce.com/tools/vscode/en/user-guide/development-models).
+## 🧩 Components Included
+This repository contains the full Salesforce metadata package used in the project, including:  
+- 🧱 **Apex Classes** – Core backend logic for automated processes  
+- 🔄 **Triggers** – Manage order totals and adjust stock dynamically  
+- 🧠 **Flows & Validation Rules** – Ensure accurate, consistent data operations  
+- 📦 **Custom Objects & Fields** – Tailored to the business model of a bespoke fashion service  
 
-## Configure Your Salesforce DX Project
+Together, these elements demonstrate the complete setup and functionality of **HandsMen Threads** within Salesforce.  
 
-The `sfdx-project.json` file contains useful configuration information for your project. See [Salesforce DX Project Configuration](https://developer.salesforce.com/docs/atlas.en-us.sfdx_dev.meta/sfdx_dev/sfdx_dev_ws_config.htm) in the _Salesforce DX Developer Guide_ for details about this file.
+## 🪶 Project Validation
+All configurations and components included here serve as proof of a fully deployed and operational Salesforce solution developed during the Capstone Program.  
 
-## Read All About It
-
-- [Salesforce Extensions Documentation](https://developer.salesforce.com/tools/vscode/)
-- [Salesforce CLI Setup Guide](https://developer.salesforce.com/docs/atlas.en-us.sfdx_setup.meta/sfdx_setup/sfdx_setup_intro.htm)
-- [Salesforce DX Developer Guide](https://developer.salesforce.com/docs/atlas.en-us.sfdx_dev.meta/sfdx_dev/sfdx_dev_intro.htm)
-- [Salesforce CLI Command Reference](https://developer.salesforce.com/docs/atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference.htm)
+## 👨‍💻 Developer
+**Timothy Jay V. Sayson**  
+📨 [tvsayson@student.apc.edu.ph]  
+🏷️ *Salesforce Capstone Project — HandsMen Threads: Transforming the Future of Men’s Tailoring*
