@@ -16,9 +16,6 @@ This repository contains the full Salesforce metadata package used in the projec
 
 Together, these elements demonstrate the complete setup and functionality of **HandsMen Threads** within Salesforce.  
 
-## 🪶 Project Validation
-All configurations and components included here serve as proof of a fully deployed and operational Salesforce solution developed during the Capstone Program.  
-
 ## 👨‍💻 Developer
 **Timothy Jay V. Sayson**  
 📨 [tvsayson@student.apc.edu.ph]  
