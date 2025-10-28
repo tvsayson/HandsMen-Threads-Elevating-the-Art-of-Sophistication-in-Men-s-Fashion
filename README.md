@@ -1,6 +1,12 @@
 # 💼 Salesforce Capstone Project: HandsMen Threads
 ### Transforming the Future of Men’s Tailoring Through Digital Innovation
 
+# 📎 Important Documents/Proof
+[📂 Project Documentation](https://github.com/tvsayson/HandsMen-Threads-Elevating-the-Art-of-Sophistication-in-Men-s-Fashion/blob/main/Project_Documentation.pdf)  
+[📂 Source Code](https://github.com/tvsayson/HandsMen-Threads-Elevating-the-Art-of-Sophistication-in-Men-s-Fashion/tree/main/Source%20Code)  
+[📂 Screenshots](https://github.com/tvsayson/HandsMen-Threads-Elevating-the-Art-of-Sophistication-in-Men-s-Fashion/tree/main/Screenshots)
+
+
 ## 🧭 Overview
 This repository presents my **Salesforce Capstone Project** for the **Salesforce Skills Wallet Program**.  
 **HandsMen Threads** is a forward-thinking fashion platform built to enhance **bespoke tailoring services** by integrating Salesforce for smarter **customer management**, **personalized styling**, and **efficient order tracking**.  
